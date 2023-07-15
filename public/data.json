@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "title": "ADIDAS",
+        "description": "blue",
+        "code": "ABC001",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "thumbnails" : []
+    },
+    {
+        "id": 2,
+        "title": "ADIDAS",
+        "description": "white",
+        "code": "ABC002",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "thumbnails" : []
+    },
+    {
+        "id": 3,
+        "title": "ADIDAS",
+        "description": "red",
+        "code": "ABC003",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "thumbnails" : []
+    }, 
+    {
+        "id": 4,
+        "title": "ADIDAS",
+        "description": "black",
+        "code": "ABC004",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "thumbnails" : []
+    },
+    {
+        "id": 5,
+        "title": "ADIDAS",
+        "description": "beige",
+        "code": "ABC005",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "thumbnails" : []
+    },
+    {
+        "id": 6,
+        "title": "ADIDAS",
+        "description": "yellow",
+        "code": "ABC006",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "thumbnails" : []
+    }, 
+    {
+        "id": 7,
+        "title": "ADIDAS",
+        "description": "green",
+        "code": "ABC007",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "thumbnails" : []
+    }
+]

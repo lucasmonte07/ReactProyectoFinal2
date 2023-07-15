@@ -1,0 +1,38 @@
+.cardio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+    width: 220px;
+    height: 300px;
+    background-color: beige;
+    margin: 24px;
+}
+
+.titleDesign {
+    font-size: 25px;
+    margin: 2px;
+}
+
+.descripDesign {
+    font-size: 28px;
+    margin: 2px;
+}
+
+.priceDesign {
+    font-size: 28px;
+    margin: 2px;
+}
+
+.buttonDesign {
+    font-size: 28px;
+    color: white;
+    background-color: black;
+    margin: 2px;
+}
+
+.cuadro {
+    width: 40%;
+    height: 100px;
+    background-color: blueviolet;
+}
